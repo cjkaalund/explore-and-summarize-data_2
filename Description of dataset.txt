@@ -1,0 +1,8 @@
+The data for this study was downloaded as a .csv from:
+
+http://data.gov.au/dataset/tasmanian
+
+Here's a description of the data from the website:
+"Vehicle crash data (classified as fatal, serious, minor, first aid, property damage etc) attended by Tasmanian Police or provided by the general public via Tasmanian Police crash reports. Data for the last 10 years is provided (1 January 2004 to 2 July 2014) . Attributes include severity, descriptive collision, attendance by Police, light conditions, type of road centreline, speed limit, description of crash location, number of vehicles involved, type of vehicle, blood alcohol content, traffic controls at collision scene, x-y coordinates as EPSG:28355"
+
+The speed limit units are km/h.

@@ -1,0 +1,8 @@
+List of websites etc. that I used for my submission:
+
+http://data.gov.au/dataset/tasmanian
+http://spatialreference.org/ref/epsg/28355/
+http://stackoverflow.com/questions/2601745/how-to-convert-vector-layer-coordinates-into-map-latitude-and-longitude-in-openl
+http://all-geo.org/volcan01010/2012/11/change-coordinates-with-pyproj/
+https://uchicagoconsulting.wordpress.com/tag/r-ggplot2-maps-visualization/
+http://blog.opendataaustralia.com.au/?p=72
